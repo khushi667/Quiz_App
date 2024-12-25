@@ -1,0 +1,14 @@
+# Set default behavior to automatically normalize line endings.
+* text=auto
+
+# Explicitly set line endings for specific file types.
+*.js text eol=lf
+*.jsx text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+
+# If you want to enforce CRLF for some files on Windows, you can do so:
+#*.bat text eol=crlf
+#*.sh text eol=lf
